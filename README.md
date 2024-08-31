@@ -1,5 +1,4 @@
 # Delivery Sorting
-
 The Delivery Sorting project is a Python application that handles the classification and sorting of items based on color and size. It includes various sorting algorithms and a suite of tests to ensure the correctness and performance of these algorithms.
 
 ## Files Description
